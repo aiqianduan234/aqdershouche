@@ -7,4 +7,4 @@
 * 功能简单
 * 实现界面
 
-![Image](images/logo.png)
+![Image](https://raw.githubusercontent.com/aiqianduan234/aqdershouche/master/images/logo.png)
